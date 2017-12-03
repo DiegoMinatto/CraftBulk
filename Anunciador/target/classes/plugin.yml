@@ -1,0 +1,8 @@
+name: Anunciador
+main: com.craftbulk.anunciador.Main
+author: WyskiBR
+version: 1.0
+commands:
+  Anunciador:
+    description: Todas as opções de terreno do servidor.
+    usage: Uso correto':' /terreno <opções>.

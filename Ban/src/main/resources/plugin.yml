@@ -1,0 +1,11 @@
+name: Ban
+main: com.craftbulk.ban.Main
+author: WyskiBR
+version: 1.0
+commands:
+    kick:
+        description: kicka o jogador
+    ban:
+        description: bane o jogador
+    unban:
+        description: desbane

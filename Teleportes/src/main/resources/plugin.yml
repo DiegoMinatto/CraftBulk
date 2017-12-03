@@ -1,0 +1,9 @@
+name: Teleportes
+version: 1.0.0
+author: WyskiBR 
+main: com.craftbulk.teleportes.Main
+commands:
+  Teleporte:
+    description: Todas as opções de teleporte do servidor para players.
+    usage: Uso correto':' /teleportar <opções>.
+

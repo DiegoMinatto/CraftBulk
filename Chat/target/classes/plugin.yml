@@ -1,0 +1,14 @@
+name: Chat
+version: 1.0.0
+author: WyskiBR 
+main: com.craftbulk.chat.Main
+commands:
+    G:
+        description: mensagens globais
+        usage: /g <mensagem>
+    Mp:
+        description: mensagens pessoais;
+        usage: /tell
+    r:
+        decription: responde mensagem;
+        usage: /r

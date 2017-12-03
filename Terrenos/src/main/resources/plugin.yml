@@ -1,0 +1,10 @@
+name: Terrenos
+version: 1.0.0
+author: WyskiBR 
+main: com.craftbulk.terrenos.Main
+depend: [WorldEdit,WorldGuard,Vault] 
+commands:
+  Terreno:
+    description: Todas as opções de terreno do servidor.
+    usage: Uso correto':' /terreno <opções>.
+
