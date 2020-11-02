@@ -1,2 +1,2 @@
 # CraftBulk
-Plugins developed to a minecraft server
+Plugins developed for a minecraft server
